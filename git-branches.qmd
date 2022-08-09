@@ -5,5 +5,5 @@ editor: visual
 ---
 
 ```{r}
-
+cool <- c(1,2,3)
 ```
