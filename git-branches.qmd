@@ -7,3 +7,5 @@ editor: visual
 ```{r}
 cool <- c(1,2,3)
 ```
+
+wow we be git hubbin today
